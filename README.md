@@ -1,3 +1,3 @@
 # Yuvaraj_G
 
-![Live Site](https://yuvarajg.netlify.app/)
+[Live Site](https://yuvarajg.netlify.app/)
